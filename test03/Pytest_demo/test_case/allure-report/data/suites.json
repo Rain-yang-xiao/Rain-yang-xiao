@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_case",
+      "children" : [ {
+        "name" : "test_01[data0]",
+        "uid" : "dbc2afec4042574c",
+        "parentUid" : "749abf87a14fcff92207e6dec8cc2afc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1618318358362,
+          "stop" : 1618318379204,
+          "duration" : 20842
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'url': 'http://39.98.138.157/shopxo/', 'login': {'name': 'link text', 'value': '登录'}, 'username': {'name': 'xpath', 'value': '//*[@placeholder=\"用户名/手机/邮箱\"]', 'text': 'sfdss_fdsf'}, 'password': {'name': 'xpath', 'value': '//*[@placeholder=\"登录密码\"]', 'text': 'eder12345'}, 'button': {'name': 'xpath', 'value': '/html/body/div[4]/div/div[2]/div[2]/form/div[3]/button'}, 'wait1': 3, 'asser_': {'name': 'xpath', 'value': '//*[text()=\"sfdss_fdsf\"]', 'expect': 'sfdss_fdsf'}, 'search': {'name': 'id', 'value': 'search-input', 'text': '手机'}, 'click1': {'name': 'id', 'value': 'ai-topsearch'}, 'click2': {'name': 'xpath', 'value': '//*[@alt=\"苹果（Apple）iPhone 6 Plus (A1524)移动联通电信4G手机 金色 16G\"]'}, 'click3': {'name': 'xpath', 'value': '//*[@data-value=\"套餐一\"]'}, 'wait2': 1, 'click4': {'name': 'xpath', 'value': '//*[@data-value=\"金色\"]'}, 'wait3': 1, 'click5': {'name': 'xpath', 'value': '//*[@data-value=\"32G\"]'}, 'click6': {'name': 'xpath', 'value': '//*[@title=\"加入购物车\"]'}, 'assert_wait': {'name': 'xpath', 'value': '//*[text()=\"加入成功\"]'}, 'click7': {'name': 'xpath', 'value': '//*[text()=\"购物车\"]'}}" ]
+      } ],
+      "uid" : "749abf87a14fcff92207e6dec8cc2afc"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

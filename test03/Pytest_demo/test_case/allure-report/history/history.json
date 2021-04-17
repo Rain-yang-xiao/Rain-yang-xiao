@@ -1,0 +1,22 @@
+{
+  "d67bd752085f7d3ffdbc751cf16c32e3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dbc2afec4042574c",
+      "reportUrl" : "http://localhost:8080/jenkins/job/pytest_demo/25/allure/#testresult/dbc2afec4042574c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1618318358362,
+        "stop" : 1618318379204,
+        "duration" : 20842
+      }
+    } ]
+  }
+}

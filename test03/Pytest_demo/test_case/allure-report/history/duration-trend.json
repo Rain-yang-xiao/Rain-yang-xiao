@@ -1,0 +1,8 @@
+[ {
+  "buildOrder" : 25,
+  "reportUrl" : "http://localhost:8080/jenkins/job/pytest_demo/25/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 20842
+  }
+} ]
